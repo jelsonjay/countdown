@@ -1,5 +1,5 @@
 "use stract";
-const newYear = new Date("Jan 1, 2021 00:00:00").getTime();
+const newYear = new Date("Jan 1, 2023 00:00:00").getTime();
 
 function newYearEve() {
   let now = new Date().getTime();
